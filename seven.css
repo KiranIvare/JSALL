@@ -1,0 +1,16 @@
+#box{
+    height: 250px;
+    width: 100px;
+    background-color: blue;
+    color: azure;
+    border: 1px solid black;
+}
+
+.content{
+    color: red;
+}
+
+ /* second qution */
+.newClass{
+background-color: yellow;
+}
